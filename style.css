@@ -1,0 +1,47 @@
+body {
+background-color:indigo;
+text-align: center;
+}
+h1 {
+color: #EE3A8C;
+font-size: 50px;
+}
+p {
+font-size: 40px;
+color: white;
+}
+h2 {
+color: #EE3A8C;
+font-size: 50px;
+}
+img {
+  margin-left: 20px;
+  margin-right: 1150px
+}
+body {
+  font-size: 50px;
+}
+.container-imagens {
+  display: flex;            
+  justify-content: center;   
+  align-items: center;   
+  gap: 150px;         
+  margin-top: 30px;       
+margin-right: 100px
+}
+
+img {
+  margin: 0;
+}
+
+figure {
+  display: inline-block; 
+  margin: 15px;         
+  vertical-align: top;  
+}
+
+figcaption {
+  color: #ffffff;        
+  font-size: 45px;       
+  margin-top: 10px;       
+}
